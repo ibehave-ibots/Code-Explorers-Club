@@ -1,6 +1,5 @@
-# {Code} Explorers
+![Club Logo](img/Logo2.png)
 
-## Discover, Share, and Celebrate Coding
 
 ### Organizers
 - Anoushka Jain (Ph.D. Student at RWTH Aachen University)
