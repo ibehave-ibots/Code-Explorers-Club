@@ -1,8 +1,8 @@
 ![Club Logo](img/Logo2.png)
 
 
-Next Session: March 14, 2024 (Thursday) 12:30 to 13:30 
-Speaker: Dr. Nicholas Del Grosso
+Next Session: March 14, 2024 (Thursday) 12:30 to 13:30</br>
+Speaker: Dr. Nicholas Del Grosso</br>
 Zoom registration link: https://us02web.zoom.us/meeting/register/tZUsd--tqTIrH9bXPt5l1_CLqx_v6nE_5Aac
 
 ### Organizers
